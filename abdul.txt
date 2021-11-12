@@ -1,2 +1,3 @@
 hi how are yougit kahadj
 new changes on git hub 
+fetch up and pull done now uploading the file back to remote repository
